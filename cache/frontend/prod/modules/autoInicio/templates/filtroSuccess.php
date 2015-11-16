@@ -1,0 +1,213 @@
+<script type="text/javascript">
+Ext.ns("inicioFiltro");
+inicioFiltro.main = {
+init:function(){
+
+//<Stores de fk>
+this.storeCO_PRODUCTO = this.getStoreCO_PRODUCTO();
+//<Stores de fk>
+//<Stores de fk>
+this.storeCO_TRANSACCION = this.getStoreCO_TRANSACCION();
+//<Stores de fk>
+
+
+
+this.tx_producto = new Ext.form.TextField({
+	fieldLabel:'Tx producto',
+	name:'tx_producto',
+	value:''
+});
+
+this.co_padre = new Ext.form.ComboBox({
+	fieldLabel:'Co padre',
+	store: this.storeCO_PRODUCTO,
+	typeAhead: true,
+	valueField: 'co_producto',
+	displayField:'co_producto',
+	hiddenName:'co_padre',
+	//readOnly:(this.OBJ.co_padre!='')?true:false,
+	//style:(this.main.OBJ.co_padre!='')?'background:#c9c9c9;':'',
+	forceSelection:true,
+	resizable:true,
+	triggerAction: 'all',
+	emptyText:'Seleccione co_padre',
+	selectOnFocus: true,
+	mode: 'local',
+	width:200,
+	resizable:true,
+	allowBlank:false
+});
+this.storeCO_PRODUCTO.load();
+
+this.tx_href = new Ext.form.TextField({
+	fieldLabel:'Tx href',
+	name:'tx_href',
+	value:''
+});
+
+this.tx_icono = new Ext.form.TextField({
+	fieldLabel:'Tx icono',
+	name:'tx_icono',
+	value:''
+});
+
+this.nu_orden = new Ext.form.NumberField({
+	fieldLabel:'Nu orden',
+	name:'nu_orden',
+	value:''
+});
+
+this.tx_sigla = new Ext.form.TextField({
+	fieldLabel:'Tx sigla',
+	name:'tx_sigla',
+	value:''
+});
+
+this.created_at = new Ext.form.DateField({
+	fieldLabel:'Created at',
+	name:'created_at'
+});
+
+this.updated_at = new Ext.form.DateField({
+	fieldLabel:'Updated at',
+	name:'updated_at'
+});
+
+this.co_transaccion = new Ext.form.ComboBox({
+	fieldLabel:'Co transaccion',
+	store: this.storeCO_TRANSACCION,
+	typeAhead: true,
+	valueField: 'co_transaccion',
+	displayField:'co_transaccion',
+	hiddenName:'co_transaccion',
+	//readOnly:(this.OBJ.co_transaccion!='')?true:false,
+	//style:(this.main.OBJ.co_transaccion!='')?'background:#c9c9c9;':'',
+	forceSelection:true,
+	resizable:true,
+	triggerAction: 'all',
+	emptyText:'Seleccione co_transaccion',
+	selectOnFocus: true,
+	mode: 'local',
+	width:200,
+	resizable:true,
+	allowBlank:false
+});
+this.storeCO_TRANSACCION.load();
+
+    this.tabpanelfiltro = new Ext.TabPanel({
+       activeTab:0,
+       defaults:{layout:'form',bodyStyle:'padding:7px;',height:135,autoScroll:true},
+       items:[
+               {
+                   title:'Información general',
+                   items:[
+                                                                                                            this.tx_producto,
+                                                                                this.co_padre,
+                                                                                this.tx_href,
+                                                                                this.tx_icono,
+                                                                                this.nu_orden,
+                                                                                this.tx_sigla,
+                                                                                this.created_at,
+                                                                                this.updated_at,
+                                                                                this.co_transaccion,
+                                           ]
+               }
+            ]
+    });
+
+    this.panelfiltro = new Ext.form.FormPanel({
+        frame:true,
+        autoWidth:true,
+        border:false,
+        items:[
+            this.tabpanelfiltro
+        ]
+    });
+
+    this.win = new Ext.Window({
+        title:'Parametros de busqueda',
+        iconCls: 'icon-buscar',
+        width:600,
+        autoHeight:true,
+        constrain:true,
+        closable:false,
+        buttonAlign:'center',
+        items:[
+            this.panelfiltro
+        ],
+        buttons:[
+            {
+                text:'Filtrar',
+                handler:function(){
+                     inicioFiltro.main.aplicarFiltroByFormulario();
+                }
+            },
+            {
+                text:'Limpiar',
+                handler:function(){
+                    inicioFiltro.main.limpiarCamposByFormFiltro();
+                }
+            },
+            {
+                text:'Cerrar',
+                handler:function(){
+                    inicioFiltro.main.win.close();
+                    inicioLista.main.filtro.setDisabled(false);
+                }
+            }
+        ]
+    });
+    this.win.show();
+    inicioLista.main.mascara.hide();
+},
+limpiarCamposByFormFiltro: function(){
+    inicioFiltro.main.panelfiltro.getForm().reset();
+    inicioLista.main.store_lista.baseParams={}
+    inicioLista.main.store_lista.baseParams.paginar = 'si';
+    inicioLista.main.gridPanel_.store.load();
+},
+aplicarFiltroByFormulario: function(){
+    //Capturamos los campos con su value para posteriormente verificar cual
+    //esta lleno y trabajar en base a ese.
+    var campo = inicioFiltro.main.panelfiltro.getForm().getValues();
+    inicioLista.main.store_lista.baseParams={};
+
+    var swfiltrar = false;
+    for(campName in campo){
+        if(campo[campName]!=''){
+            swfiltrar = true;
+            eval("inicioLista.main.store_lista.baseParams."+campName+" = '"+campo[campName]+"';");
+        }
+    }
+
+        inicioLista.main.store_lista.baseParams.paginar = 'si';
+        inicioLista.main.store_lista.baseParams.BuscarBy = true;
+        inicioLista.main.store_lista.load();
+
+
+}
+,getStoreCO_PRODUCTO:function(){
+    this.store = new Ext.data.JsonStore({
+        url:'<?php echo $_SERVER["SCRIPT_NAME"] ?>/inicio/storefkcopadre',
+        root:'data',
+        fields:[
+            {name: 'co_producto'}
+            ]
+    });
+    return this.store;
+}
+,getStoreCO_TRANSACCION:function(){
+    this.store = new Ext.data.JsonStore({
+        url:'<?php echo $_SERVER["SCRIPT_NAME"] ?>/inicio/storefkcotransaccion',
+        root:'data',
+        fields:[
+            {name: 'co_transaccion'}
+            ]
+    });
+    return this.store;
+}
+
+};
+
+Ext.onReady(inicioFiltro.main.init,inicioFiltro.main);
+</script>

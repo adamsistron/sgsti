@@ -1,0 +1,1566 @@
+Oct 01 13:12:38 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:12:38 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:12:38 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:12:38 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:12:38 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:12:38 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:12:38 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:12:38 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:14:16 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:14:16 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:14:16 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:14:16 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:14:16 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:14:16 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:14:16 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:14:16 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:15:23 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:15:23 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:15:23 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:15:23 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:15:23 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:15:23 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:15:23 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:15:23 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:15:51 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:15:51 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:15:51 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:15:51 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:15:51 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:15:51 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:15:51 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:15:51 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:15:52 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:15:52 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:15:52 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:15:52 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:15:52 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:15:52 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:15:52 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:15:52 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:19:52 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:19:52 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:19:52 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:19:52 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:19:52 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:19:52 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:19:52 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:19:52 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:24:05 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:24:05 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:24:05 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:24:05 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:24:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:24:05 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:24:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:24:05 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:24:06 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:24:06 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:24:06 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:24:06 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:24:06 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:24:06 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:24:06 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:24:06 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:24:07 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:24:07 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:24:07 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:24:07 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:24:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:24:07 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:24:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:24:07 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:29:10 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:29:10 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:29:10 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:29:10 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:29:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:29:10 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:29:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:29:10 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:32:35 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:32:35 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:32:35 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:32:35 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:32:35 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:32:35 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:32:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:32:35 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:32:36 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:32:36 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:32:36 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:32:36 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:32:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:32:36 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:32:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:32:36 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:33:50 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:33:50 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:33:50 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:33:50 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:33:51 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:33:51 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:33:51 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:33:51 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:33:51 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:33:51 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:33:51 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:33:51 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:33:51 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:33:51 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:33:51 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:33:51 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:34:59 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:34:59 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:34:59 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:34:59 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:34:59 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:34:59 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:34:59 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:34:59 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:35:03 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:35:03 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:35:03 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:35:03 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:35:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:35:03 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:35:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:35:03 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:35:24 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:35:24 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:35:24 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:35:24 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:35:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:35:24 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:35:24 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:35:24 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:35:24 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 01 13:35:24 symfony [debug] {sfPropelLogger} prepare: SELECT j805t_usuario.ID FROM j805t_usuario
+Oct 01 13:35:24 symfony [err] {sfPropelLogger} SQLSTATE[42703]: Undefined column: 7 ERROR:  column j805t_usuario.id does not exist
+LINE 1: SELECT j805t_usuario.ID FROM j805t_usuario
+               ^
+Oct 01 13:35:24 symfony [err] {PropelException}  [wrapped: SQLSTATE[42703]: Undefined column: 7 ERROR:  column j805t_usuario.id does not exist
+LINE 1: SELECT j805t_usuario.ID FROM j805t_usuario
+               ^]
+Oct 01 13:35:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Oct 01 13:35:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 01 13:45:41 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:45:41 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:45:41 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:45:41 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:45:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:45:41 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:45:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:45:41 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:45:41 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 01 13:45:41 symfony [debug] {sfPropelLogger} prepare: SELECT j805t_usuario.ID FROM j805t_usuario
+Oct 01 13:45:41 symfony [err] {sfPropelLogger} SQLSTATE[42P01]: Undefined table: 7 ERROR:  relation "j805t_usuario" does not exist
+LINE 1: SELECT j805t_usuario.ID FROM j805t_usuario
+                                     ^
+Oct 01 13:45:41 symfony [err] {PropelException}  [wrapped: SQLSTATE[42P01]: Undefined table: 7 ERROR:  relation "j805t_usuario" does not exist
+LINE 1: SELECT j805t_usuario.ID FROM j805t_usuario
+                                     ^]
+Oct 01 13:45:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Oct 01 13:45:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 01 13:46:52 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:46:52 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:46:52 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:46:52 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:46:52 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:46:52 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:46:52 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:46:52 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:46:52 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 01 13:46:52 symfony [debug] {sfPropelLogger} prepare: SELECT j811t_usuario.CO_USUARIO, j811t_usuario.CO_ROL, j812_persona.CO_REGION, j812_persona.CO_DIVISION, j812_persona.NB_PERSONA, j812_persona.AP_PERSONA FROM j811t_usuario, j812_persona WHERE j811t_usuario.TX_INDICADOR=:p1 AND j812_persona.CO_PERSONA=j811t_usuario.CO_PERSONA
+Oct 01 13:46:52 symfony [debug] {sfPropelLogger} Binding 'camarilloj' at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 13:46:52 symfony [info] {myUser} User is authenticated
+Oct 01 13:48:45 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:48:45 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:48:45 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:48:45 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:48:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:48:45 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:48:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:48:45 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:48:45 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 01 13:48:45 symfony [debug] {sfPropelLogger} prepare: SELECT j811t_usuario.CO_USUARIO, j811t_usuario.CO_ROL, j812_persona.CO_REGION, j812_persona.CO_DIVISION, j812_persona.NB_PERSONA, j812_persona.AP_PERSONA FROM j811t_usuario, j812_persona WHERE j811t_usuario.TX_INDICADOR=:p1 AND j812_persona.CO_PERSONA=j811t_usuario.CO_PERSONA
+Oct 01 13:48:45 symfony [debug] {sfPropelLogger} Binding 'camarilloj' at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 13:48:45 symfony [info] {myUser} User is authenticated
+Oct 01 13:48:52 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:48:52 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:48:52 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:48:52 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:48:52 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:48:52 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:48:52 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:48:52 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:48:52 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 01 13:48:52 symfony [debug] {sfPropelLogger} prepare: SELECT j811t_usuario.CO_USUARIO, j811t_usuario.CO_ROL, j812_persona.CO_REGION, j812_persona.CO_DIVISION, j812_persona.NB_PERSONA, j812_persona.AP_PERSONA FROM j811t_usuario, j812_persona WHERE j811t_usuario.TX_INDICADOR=:p1 AND j812_persona.CO_PERSONA=j811t_usuario.CO_PERSONA
+Oct 01 13:48:52 symfony [debug] {sfPropelLogger} Binding 'camarilloj' at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 13:52:48 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:52:48 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:52:48 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:52:48 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:52:48 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:52:48 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:52:48 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:52:48 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:52:48 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 01 13:52:48 symfony [debug] {sfPropelLogger} prepare: SELECT j811t_usuario.CO_USUARIO, j811t_usuario.CO_ROL, j812_persona.CO_REGION, j812_persona.CO_DIVISION, j812_persona.NB_PERSONA, j812_persona.AP_PERSONA FROM j811t_usuario, j812_persona WHERE j811t_usuario.TX_INDICADOR=:p1 AND j812_persona.CO_PERSONA=j811t_usuario.CO_PERSONA
+Oct 01 13:52:48 symfony [debug] {sfPropelLogger} Binding 'camarilloj' at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 13:52:56 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:52:56 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:52:56 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:52:56 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:52:56 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:52:56 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:52:56 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:52:56 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:52:56 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 01 13:52:56 symfony [debug] {sfPropelLogger} prepare: SELECT j811t_usuario.CO_USUARIO, j811t_usuario.CO_ROL, j812_persona.CO_REGION, j812_persona.CO_DIVISION, j812_persona.NB_PERSONA, j812_persona.AP_PERSONA FROM j811t_usuario, j812_persona WHERE j811t_usuario.TX_INDICADOR=:p1 AND j812_persona.CO_PERSONA=j811t_usuario.CO_PERSONA
+Oct 01 13:52:56 symfony [debug] {sfPropelLogger} Binding 'camarilloj' at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 13:52:56 symfony [info] {myUser} User is authenticated
+Oct 01 13:52:56 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/modules/login/templates/validarSuccess.php"
+Oct 01 13:52:56 symfony [info] {sfPHPView} Decorate content with "/var/www/html/sgsti/apps/frontend/templates/login.php"
+Oct 01 13:52:56 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/templates/login.php"
+Oct 01 13:52:56 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 01 13:52:56 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 01 13:52:56 symfony [info] {sfWebDebugLogger} Configuration 7.25 ms (10)
+Oct 01 13:52:56 symfony [info] {sfWebDebugLogger} Action "login/validar" 83.98 ms (1)
+Oct 01 13:52:56 symfony [info] {sfWebDebugLogger} View "Success" for "login/validar" 25.97 ms (1)
+Oct 01 13:52:56 symfony [info] {sfWebResponse} Send content (29127 o)
+Oct 01 13:52:56 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:52:56 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:52:56 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:52:56 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:52:56 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:52:56 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:52:56 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:52:56 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:52:56 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 01 13:52:56 symfony [debug] {sfPropelLogger} prepare: SELECT j811t_usuario.CO_USUARIO, j811t_usuario.CO_ROL, j812_persona.CO_REGION, j812_persona.CO_DIVISION, j812_persona.NB_PERSONA, j812_persona.AP_PERSONA FROM j811t_usuario, j812_persona WHERE j811t_usuario.TX_INDICADOR=:p1 AND j812_persona.CO_PERSONA=j811t_usuario.CO_PERSONA
+Oct 01 13:52:56 symfony [debug] {sfPropelLogger} Binding 'camarilloj' at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 13:52:56 symfony [info] {myUser} User is authenticated
+Oct 01 13:52:56 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/modules/login/templates/validarSuccess.php"
+Oct 01 13:52:56 symfony [info] {sfPHPView} Decorate content with "/var/www/html/sgsti/apps/frontend/templates/login.php"
+Oct 01 13:52:56 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/templates/login.php"
+Oct 01 13:52:56 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 01 13:52:56 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 01 13:52:56 symfony [info] {sfWebDebugLogger} Configuration 1.36 ms (9)
+Oct 01 13:52:56 symfony [info] {sfWebDebugLogger} Action "login/validar" 62.62 ms (1)
+Oct 01 13:52:56 symfony [info] {sfWebDebugLogger} View "Success" for "login/validar" 2.80 ms (1)
+Oct 01 13:52:57 symfony [info] {sfWebResponse} Send content (29375 o)
+Oct 01 13:52:58 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 13:52:58 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 13:52:58 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 13:52:58 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /login/validar with parameters array (  'module' => 'login',  'action' => 'validar',)
+Oct 01 13:52:58 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 13:52:58 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 13:52:58 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 01 13:52:58 symfony [info] {LoginActions} Call "LoginActions->executeValidar()"
+Oct 01 13:52:58 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 01 13:52:58 symfony [debug] {sfPropelLogger} prepare: SELECT j811t_usuario.CO_USUARIO, j811t_usuario.CO_ROL, j812_persona.CO_REGION, j812_persona.CO_DIVISION, j812_persona.NB_PERSONA, j812_persona.AP_PERSONA FROM j811t_usuario, j812_persona WHERE j811t_usuario.TX_INDICADOR=:p1 AND j812_persona.CO_PERSONA=j811t_usuario.CO_PERSONA
+Oct 01 13:52:58 symfony [debug] {sfPropelLogger} Binding 'camarilloj' at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 13:52:58 symfony [info] {myUser} User is authenticated
+Oct 01 13:52:58 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/modules/login/templates/validarSuccess.php"
+Oct 01 13:52:58 symfony [info] {sfPHPView} Decorate content with "/var/www/html/sgsti/apps/frontend/templates/login.php"
+Oct 01 13:52:58 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/templates/login.php"
+Oct 01 13:52:58 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 01 13:52:58 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 01 13:52:58 symfony [info] {sfWebDebugLogger} Configuration 1.35 ms (9)
+Oct 01 13:52:58 symfony [info] {sfWebDebugLogger} Action "login/validar" 57.77 ms (1)
+Oct 01 13:52:58 symfony [info] {sfWebDebugLogger} View "Success" for "login/validar" 3.13 ms (1)
+Oct 01 13:52:58 symfony [info] {sfWebResponse} Send content (29282 o)
+Oct 01 14:57:25 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 14:57:25 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 14:57:25 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 14:57:25 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 14:57:25 symfony [err] {sfInitializationException} Unable to scaffold nonexistent model "J001tMenu".
+Oct 01 14:57:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Oct 01 14:57:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 01 14:59:31 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 14:59:31 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 14:59:31 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 14:59:31 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 14:59:31 symfony [err] {sfInitializationException} Unable to scaffold nonexistent model "J001tMenu".
+Oct 01 14:59:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Oct 01 14:59:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 01 14:59:50 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 14:59:50 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 14:59:50 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 14:59:50 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 14:59:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 14:59:50 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 14:59:50 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 14:59:50 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 14:59:50 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 15:00:07 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 15:00:07 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 15:00:07 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 15:00:07 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 15:00:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 15:00:07 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 15:00:07 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 15:00:07 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 15:00:07 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 15:00:07 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 01 15:00:07 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 15:00:07 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 15:00:07 symfony [debug] {sfPropelLogger} Binding 0 at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 15:00:07 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 15:00:07 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 15:00:07 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 15:00:07 symfony [debug] {sfPropelLogger} Binding '55' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 15:00:07 symfony [debug] {sfPropelLogger} Binding 't' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 15:00:07 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 15:00:07 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 15:00:07 symfony [debug] {sfPropelLogger} Binding '29' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 15:00:07 symfony [debug] {sfPropelLogger} Binding 't' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 15:00:07 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 15:00:07 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 15:00:07 symfony [debug] {sfPropelLogger} Binding '72' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 15:00:07 symfony [debug] {sfPropelLogger} Binding 't' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 15:00:07 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 15:00:07 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 15:00:07 symfony [debug] {sfPropelLogger} Binding '81' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 15:00:07 symfony [debug] {sfPropelLogger} Binding 't' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 15:00:07 symfony [info] {myUser} User is authenticated
+Oct 01 15:00:07 symfony [info] {myUser} User is authenticated
+Oct 01 15:00:07 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/modules/inicio/templates/indexSuccess.php"
+Oct 01 15:00:07 symfony [info] {sfPHPView} Decorate content with "/var/www/html/sgsti/apps/frontend/templates/layout.php"
+Oct 01 15:00:07 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/templates/layout.php"
+Oct 01 15:00:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 01 15:00:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 01 15:00:07 symfony [info] {sfWebDebugLogger} Configuration 5.23 ms (11)
+Oct 01 15:00:07 symfony [info] {sfWebDebugLogger} Action "inicio/index" 112.26 ms (1)
+Oct 01 15:00:07 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 22.25 ms (1)
+Oct 01 15:00:07 symfony [info] {sfWebResponse} Send content (34078 o)
+Oct 01 15:53:45 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 15:53:45 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 15:53:45 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 15:53:45 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 15:53:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 15:53:45 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 15:53:45 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 15:53:45 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 15:53:45 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 15:54:45 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 15:54:45 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 15:54:45 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 15:54:45 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 15:54:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 15:54:45 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 15:54:45 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 15:54:45 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 15:54:45 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 15:55:32 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 15:55:32 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 15:55:32 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 15:55:32 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 15:55:32 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 15:55:32 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 15:55:32 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 15:55:32 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 15:55:32 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 15:57:58 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 15:57:58 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 15:57:58 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 15:57:58 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 15:57:58 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 15:57:58 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 15:57:58 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 15:57:58 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 15:57:58 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 15:57:59 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 15:57:59 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 15:57:59 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 15:57:59 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 15:57:59 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 15:57:59 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 15:57:59 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 15:57:59 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 15:57:59 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:02:48 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:02:48 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:02:48 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:02:48 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:02:48 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:02:48 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:02:48 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:02:48 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:02:48 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:04:23 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:04:23 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:04:23 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:04:23 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:04:23 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:04:23 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:04:23 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:04:23 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:04:23 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:04:24 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:04:24 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:04:24 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:04:24 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:04:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:04:24 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:04:24 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:04:24 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:04:24 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:04:37 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:04:37 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:04:37 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:04:37 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:04:37 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:04:37 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:04:37 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:04:37 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:04:37 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:04:49 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:04:49 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:04:49 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:04:49 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:04:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:04:50 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:04:50 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:04:50 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:04:50 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:06:19 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:06:19 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:06:19 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:06:19 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:06:19 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:06:19 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:06:19 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:06:19 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:06:19 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:07:03 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:07:03 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:07:03 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:07:03 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:07:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:07:03 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:07:03 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:07:03 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:07:03 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:07:05 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:07:05 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:07:05 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:07:05 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:07:06 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:07:06 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:07:06 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:07:06 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:07:06 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:07:37 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:07:37 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:07:37 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:07:37 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:07:37 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:07:37 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:07:37 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:07:37 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:07:37 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:08:09 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:08:09 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:08:09 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:08:09 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:08:09 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:08:09 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:08:09 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:08:09 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:08:09 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:08:10 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:08:10 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:08:10 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:08:10 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:08:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:08:10 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:08:10 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:08:10 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:08:10 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:08:24 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:08:24 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:08:24 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:08:24 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:08:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:08:24 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:08:24 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:08:24 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:08:24 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:09:47 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:09:47 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:09:47 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:09:47 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:09:47 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:09:47 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:09:47 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:09:47 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:09:47 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:09:48 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:09:48 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:09:48 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:09:48 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:09:48 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:09:48 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:09:48 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:09:48 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:09:48 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:09:49 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:09:49 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:09:49 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:09:49 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:09:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:09:49 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:09:49 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:09:49 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:09:49 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:10:03 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:10:03 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:10:03 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:10:03 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:10:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:10:03 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:10:03 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:10:03 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:10:03 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:10:51 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:10:51 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:10:51 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:10:51 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:10:51 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:10:51 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:10:51 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:10:51 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:10:51 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:10:52 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:10:52 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:10:52 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:10:52 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:10:52 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:10:52 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:10:52 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:10:52 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:10:52 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:12:50 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:12:50 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:12:50 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:12:50 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:12:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:12:50 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:12:50 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:12:50 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:12:50 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:12:51 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:12:51 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:12:51 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:12:51 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:12:51 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:12:51 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:12:51 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:12:51 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:12:51 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:12:52 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:12:52 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:12:52 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:12:52 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:12:52 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:12:52 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:12:52 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:12:52 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:12:52 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:12:54 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:12:54 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:12:54 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:12:54 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:12:54 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:12:54 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:12:54 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:12:54 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:12:54 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:14:41 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:14:41 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:14:41 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:14:41 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:14:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:14:41 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:14:41 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:14:41 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:14:41 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:14:41 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 01 16:14:41 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 16:14:41 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:14:41 symfony [debug] {sfPropelLogger} Binding 0 at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:14:41 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:15:14 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:15:14 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:15:14 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:15:14 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:15:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:15:14 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:15:14 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:15:14 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:15:14 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:15:14 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 01 16:15:14 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 16:15:14 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:15:14 symfony [debug] {sfPropelLogger} Binding 0 at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:15:14 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:15:22 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:15:22 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:15:22 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:15:22 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:15:22 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:15:22 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:15:22 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:15:22 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:15:22 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:15:22 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 01 16:15:22 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 16:15:22 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:15:22 symfony [debug] {sfPropelLogger} Binding 0 at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:15:22 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:15:22 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:15:22 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:15:22 symfony [debug] {sfPropelLogger} Binding '36' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:15:22 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:16:03 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:16:03 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:16:03 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /inicio with parameters array (  'module' => 'inicio',  'action' => 'index',)
+Oct 01 16:16:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:16:03 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Oct 01 16:16:03 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:16:03 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:16:03 symfony [info] {inicioActions} Call "inicioActions->executeIndex()"
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 0 at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '36' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '36' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 't' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '1' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '1' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '1' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 't' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '8' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '9' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '10' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '2' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '2' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '2' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 't' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '11' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '12' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '3' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '3' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '3' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 't' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '13' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '14' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '15' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '16' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '17' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '4' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '4' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '4' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 't' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '18' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '19' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '35' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '5' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '5' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '5' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 't' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '20' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '21' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '22' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '23' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '24' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '25' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '26' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '6' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '6' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '6' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 't' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '27' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '28' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '29' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '30' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '31' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '32' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '33' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '34' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '7' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '37' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '37' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 't' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '38' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '38' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '38' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 't' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '51' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '39' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '56' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '82' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '82' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '82' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 't' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '83' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '84' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '85' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '92' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '93' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '94' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '40' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '40' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '40' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 't' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '49' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '45' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '42' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '43' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '44' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '59' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '41' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '57' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '60' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '60' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '60' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 't' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '66' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '65' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '62' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '63' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '64' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '61' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '50' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '50' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '50' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 't' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '47' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '46' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '58' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '48' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '48' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '48' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 't' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '52' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '54' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '53' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '55' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '90' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '90' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '90' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 't' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '86' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '87' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '90' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '90' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '90' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 't' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '86' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '87' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '67' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '67' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 't' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '71' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '70' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '68' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '69' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '72' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '89' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '88' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '73' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '73' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 't' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '74' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '75' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '81' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '76' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '76' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 'true' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT j808t_producto.CO_PRODUCTO, j808t_producto.TX_PRODUCTO, j808t_producto.CO_PADRE, j808t_producto.TX_HREF, j808t_producto.TX_ICONO, j808t_producto.NU_ORDEN, j808t_producto.TX_SIGLA FROM j808t_producto, j810t_rol_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j810t_rol_producto.IN_VER=:p3 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO ORDER BY j808t_producto.NU_ORDEN ASC
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '76' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 't' at position :p3 w/ PDO type PDO::PARAM_BOOL
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '77' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '78' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '79' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j810t_rol_producto, j808t_producto WHERE j810t_rol_producto.CO_ROL=:p1 AND j808t_producto.CO_PADRE=:p2 AND j808t_producto.CO_PRODUCTO=j810t_rol_producto.CO_PRODUCTO
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding 1 at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [debug] {sfPropelLogger} Binding '80' at position :p2 w/ PDO type PDO::PARAM_STR
+Oct 01 16:16:03 symfony [info] {myUser} User is authenticated
+Oct 01 16:16:03 symfony [info] {myUser} User is authenticated
+Oct 01 16:16:03 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/modules/inicio/templates/indexSuccess.php"
+Oct 01 16:16:03 symfony [info] {sfPHPView} Decorate content with "/var/www/html/sgsti/apps/frontend/templates/layout.php"
+Oct 01 16:16:03 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/templates/layout.php"
+Oct 01 16:16:03 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 01 16:16:03 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 01 16:16:03 symfony [info] {sfWebDebugLogger} Configuration 6.76 ms (11)
+Oct 01 16:16:03 symfony [info] {sfWebDebugLogger} Action "inicio/index" 433.25 ms (1)
+Oct 01 16:16:03 symfony [info] {sfWebDebugLogger} View "Success" for "inicio/index" 9.82 ms (1)
+Oct 01 16:16:03 symfony [info] {sfWebResponse} Send content (211309 o)
+Oct 01 16:39:42 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:39:42 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:39:42 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:39:42 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /rol with parameters array (  'module' => 'rol',  'action' => 'index',)
+Oct 01 16:39:42 symfony [err] {sfInitializationException} Unable to scaffold nonexistent model "T02Rol".
+Oct 01 16:39:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Oct 01 16:39:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 01 16:40:56 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:40:56 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:40:56 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:40:56 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /rol with parameters array (  'module' => 'rol',  'action' => 'index',)
+Oct 01 16:40:56 symfony [err] {sfInitializationException} Unable to scaffold nonexistent model "T02Rol".
+Oct 01 16:40:56 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Oct 01 16:40:56 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 01 16:40:59 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:40:59 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:40:59 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:40:59 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /rol with parameters array (  'module' => 'rol',  'action' => 'index',)
+Oct 01 16:40:59 symfony [err] {sfInitializationException} Unable to scaffold nonexistent model "T02Rol".
+Oct 01 16:40:59 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Oct 01 16:40:59 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 01 16:41:09 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:41:09 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:41:09 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:41:09 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /rol with parameters array (  'module' => 'rol',  'action' => 'index',)
+Oct 01 16:41:09 symfony [err] {sfInitializationException} Unable to scaffold nonexistent model "T02Rol".
+Oct 01 16:41:09 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Oct 01 16:41:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 01 16:41:27 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:41:27 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:41:27 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:41:27 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /rol with parameters array (  'module' => 'rol',  'action' => 'index',)
+Oct 01 16:41:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:41:27 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:41:27 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:41:27 symfony [info] {RolActions} Call "RolActions->executeIndex()"
+Oct 01 16:41:27 symfony [info] {RolActions} Forward to action "rol/lista"
+Oct 01 16:41:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:41:27 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:41:27 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:41:27 symfony [info] {RolActions} Call "RolActions->executeLista()"
+Oct 01 16:41:27 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/modules/rol/templates/listaSuccess.php"
+Oct 01 16:41:27 symfony [info] {sfPHPView} Decorate content with "/var/www/html/sgsti/apps/frontend/templates/layout.php"
+Oct 01 16:41:27 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/templates/layout.php"
+Oct 01 16:41:27 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 01 16:41:27 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 01 16:41:27 symfony [info] {sfWebDebugLogger} Configuration 58.87 ms (15)
+Oct 01 16:41:27 symfony [info] {sfWebDebugLogger} Action "rol/index" 16.04 ms (1)
+Oct 01 16:41:27 symfony [info] {sfWebDebugLogger} Action "rol/lista" 0.56 ms (1)
+Oct 01 16:41:27 symfony [info] {sfWebDebugLogger} View "Success" for "rol/lista" 10.94 ms (1)
+Oct 01 16:41:27 symfony [info] {sfWebResponse} Send content (35660 o)
+Oct 01 16:41:28 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:41:28 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:41:28 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:41:28 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /rol/storelista with parameters array (  'module' => 'rol',  'action' => 'storelista',)
+Oct 01 16:41:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:41:28 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:41:28 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:41:28 symfony [info] {RolActions} Call "RolActions->executeStorelista()"
+Oct 01 16:42:07 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:42:07 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:42:07 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:42:07 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /rol/storelista with parameters array (  'module' => 'rol',  'action' => 'storelista',)
+Oct 01 16:42:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:42:07 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:42:07 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:42:07 symfony [info] {RolActions} Call "RolActions->executeStorelista()"
+Oct 01 16:42:37 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:42:37 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:42:37 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:42:37 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /rol/storelista with parameters array (  'module' => 'rol',  'action' => 'storelista',)
+Oct 01 16:42:37 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 01 16:42:37 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 01 16:42:37 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 01 16:42:37 symfony [info] {RolActions} Call "RolActions->executeStorelista()"
+Oct 01 16:42:37 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 01 16:42:37 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM j809t_rol
+Oct 01 16:42:37 symfony [debug] {sfPropelLogger} prepare: SELECT j809t_rol.CO_ROL, j809t_rol.TX_ROL FROM j809t_rol ORDER BY j809t_rol.CO_ROL ASC LIMIT 10
+Oct 01 16:42:37 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/modules/rol/templates/storelistaSuccess.php"
+Oct 01 16:42:37 symfony [info] {sfPHPView} Decorate content with "/var/www/html/sgsti/apps/frontend/templates/layout.php"
+Oct 01 16:42:37 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/templates/layout.php"
+Oct 01 16:42:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 01 16:42:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 01 16:42:37 symfony [info] {sfWebDebugLogger} Configuration 1.58 ms (10)
+Oct 01 16:42:37 symfony [info] {sfWebDebugLogger} Action "rol/storelista" 64.46 ms (1)
+Oct 01 16:42:37 symfony [info] {sfWebDebugLogger} View "Success" for "rol/storelista" 4.36 ms (1)
+Oct 01 16:42:37 symfony [info] {sfWebResponse} Send content (32176 o)
+Oct 01 16:42:37 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:42:37 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:42:37 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:42:37 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/user.gif" (/).
+Oct 01 16:42:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Oct 01 16:42:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 01 16:42:38 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 01 16:42:38 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 01 16:42:38 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 01 16:42:38 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/user.gif" (/).
+Oct 01 16:42:38 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Oct 01 16:42:38 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 08:45:57 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 02 08:45:57 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 02 08:45:57 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 02 08:45:57 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /rol/guardar with parameters array (  'module' => 'rol',  'action' => 'guardar',)
+Oct 02 08:45:57 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 08:45:57 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 02 08:45:57 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 02 08:45:57 symfony [info] {RolActions} Call "RolActions->executeGuardar()"
+Oct 02 08:45:57 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 02 08:45:57 symfony [debug] {sfPropelLogger} prepare: SELECT j809t_rol.CO_ROL, j809t_rol.TX_ROL FROM j809t_rol WHERE j809t_rol.CO_ROL=:p1
+Oct 02 08:45:57 symfony [debug] {sfPropelLogger} Binding '1' at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 02 08:45:57 symfony [debug] {sfPropelLogger} prepare: update j810t_rol_producto
+                                        set in_ver = true
+                                      where co_rolmenu in(
+                                             select co_rol_producto from vista_rol_producto where co_rol = 1 and cant > 0)
+Oct 02 08:45:57 symfony [err] {PDOException} SQLSTATE[42703]: Undefined column: 7 ERROR:  column "co_rolmenu" does not exist
+LINE 3:                                       where co_rolmenu in(
+                                                    ^
+Oct 02 08:45:57 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Oct 02 08:45:57 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 10:55:38 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 02 10:55:38 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 02 10:55:38 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 02 10:55:38 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /C001tForense with parameters array (  'module' => 'C001tForense',  'action' => 'index',)
+Oct 02 10:56:33 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 02 10:56:33 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 02 10:56:33 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 02 10:56:33 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /C001tForense with parameters array (  'module' => 'C001tForense',  'action' => 'index',)
+Oct 02 10:56:35 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 02 10:56:35 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 02 10:56:35 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 02 10:56:35 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /C001tForense with parameters array (  'module' => 'C001tForense',  'action' => 'index',)
+Oct 02 10:56:45 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 02 10:56:45 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 02 10:56:45 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 02 10:56:45 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /C001tForense with parameters array (  'module' => 'C001tForense',  'action' => 'index',)
+Oct 02 10:56:46 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 02 10:56:46 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 02 10:56:46 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 02 10:56:46 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /C001tForense with parameters array (  'module' => 'C001tForense',  'action' => 'index',)
+Oct 02 10:58:34 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 02 10:58:34 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 02 10:58:34 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 02 10:58:34 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /C001tForense with parameters array (  'module' => 'C001tForense',  'action' => 'index',)
+Oct 02 10:58:34 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 10:58:34 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 02 10:58:34 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 02 10:58:34 symfony [info] {C001tForenseActions} Call "C001tForenseActions->executeIndex()"
+Oct 02 10:58:34 symfony [info] {C001tForenseActions} Forward to action "C001tForense/lista"
+Oct 02 10:58:34 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 10:58:34 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 02 10:58:34 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 02 10:58:34 symfony [info] {C001tForenseActions} Call "C001tForenseActions->executeLista()"
+Oct 02 10:58:34 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/modules/C001tForense/templates/listaSuccess.php"
+Oct 02 10:58:34 symfony [info] {sfPHPView} Decorate content with "/var/www/html/sgsti/apps/frontend/templates/layout.php"
+Oct 02 10:58:34 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/templates/layout.php"
+Oct 02 10:58:34 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 10:58:34 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 10:58:34 symfony [info] {sfWebDebugLogger} Configuration 15.23 ms (15)
+Oct 02 10:58:34 symfony [info] {sfWebDebugLogger} Action "C001tForense/index" 24.45 ms (1)
+Oct 02 10:58:34 symfony [info] {sfWebDebugLogger} Action "C001tForense/lista" 0.45 ms (1)
+Oct 02 10:58:34 symfony [info] {sfWebDebugLogger} View "Success" for "C001tForense/lista" 12.81 ms (1)
+Oct 02 10:58:34 symfony [info] {sfWebResponse} Send content (40083 o)
+Oct 02 13:20:44 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 02 13:20:44 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 02 13:20:44 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 02 13:20:44 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /C001tForense/storelista with parameters array (  'module' => 'C001tForense',  'action' => 'storelista',)
+Oct 02 13:20:46 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 13:20:46 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 02 13:20:46 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 02 13:20:46 symfony [info] {C001tForenseActions} Call "C001tForenseActions->executeStorelista()"
+Oct 02 13:20:46 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 02 13:20:46 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM c001t_forense
+Oct 02 13:20:46 symfony [debug] {sfPropelLogger} prepare: SELECT c001t_forense.CO_FORENSE, c001t_forense.FE_APERTURA, c001t_forense.FE_CIERRE, c001t_forense.CO_REGION, c001t_forense.CO_NEGOCIO, c001t_forense.CO_DIVISION, c001t_forense.TX_SERIAL, c001t_forense.TX_TITULO, c001t_forense.TX_DESCRIPCION_SOLICITUD, c001t_forense.TX_CASO_AAII, c001t_forense.CO_ALCANCE_FORENSE, c001t_forense.TX_METOLOGIA_HERRAMIENTAS, c001t_forense.TX_OBSERVACIONES, c001t_forense.CO_TRANSACCION, c001t_forense.CO_CLASIFICACION, c001t_forense.IN_ABIERTO, c001t_forense.CREATED_AT, c001t_forense.UPDATE_AT, c001t_forense.CO_ESTADO_FORENSE FROM c001t_forense ORDER BY c001t_forense.CO_FORENSE ASC
+Oct 02 13:20:46 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/modules/C001tForense/templates/storelistaSuccess.php"
+Oct 02 13:20:46 symfony [info] {sfPHPView} Decorate content with "/var/www/html/sgsti/apps/frontend/templates/layout.php"
+Oct 02 13:20:46 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/templates/layout.php"
+Oct 02 13:20:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 13:20:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 13:20:46 symfony [info] {sfWebDebugLogger} Configuration 1647.11 ms (10)
+Oct 02 13:20:46 symfony [info] {sfWebDebugLogger} Action "C001tForense/storelista" 74.43 ms (1)
+Oct 02 13:20:46 symfony [info] {sfWebDebugLogger} View "Success" for "C001tForense/storelista" 32.38 ms (1)
+Oct 02 13:20:46 symfony [info] {sfWebResponse} Send content (33099 o)
+Oct 02 13:20:46 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 02 13:20:46 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 02 13:20:46 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 02 13:20:46 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/user.gif" (/).
+Oct 02 13:20:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Oct 02 13:20:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 13:21:00 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 02 13:21:00 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 02 13:21:00 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 02 13:21:00 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /C001tForense/storelista with parameters array (  'module' => 'C001tForense',  'action' => 'storelista',)
+Oct 02 13:21:00 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 13:21:00 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 02 13:21:00 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 02 13:21:00 symfony [info] {C001tForenseActions} Call "C001tForenseActions->executeStorelista()"
+Oct 02 13:21:00 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 02 13:21:00 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM c001t_forense
+Oct 02 13:21:00 symfony [debug] {sfPropelLogger} prepare: SELECT c001t_forense.CO_FORENSE, c001t_forense.FE_APERTURA, c001t_forense.FE_CIERRE, c001t_forense.CO_REGION, c001t_forense.CO_NEGOCIO, c001t_forense.CO_DIVISION, c001t_forense.TX_SERIAL, c001t_forense.TX_TITULO, c001t_forense.TX_DESCRIPCION_SOLICITUD, c001t_forense.TX_CASO_AAII, c001t_forense.CO_ALCANCE_FORENSE, c001t_forense.TX_METOLOGIA_HERRAMIENTAS, c001t_forense.TX_OBSERVACIONES, c001t_forense.CO_TRANSACCION, c001t_forense.CO_CLASIFICACION, c001t_forense.IN_ABIERTO, c001t_forense.CREATED_AT, c001t_forense.UPDATE_AT, c001t_forense.CO_ESTADO_FORENSE FROM c001t_forense ORDER BY c001t_forense.CO_FORENSE ASC
+Oct 02 13:21:00 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/modules/C001tForense/templates/storelistaSuccess.php"
+Oct 02 13:21:00 symfony [info] {sfPHPView} Decorate content with "/var/www/html/sgsti/apps/frontend/templates/layout.php"
+Oct 02 13:21:00 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/templates/layout.php"
+Oct 02 13:21:00 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 13:21:00 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 13:21:00 symfony [info] {sfWebDebugLogger} Configuration 1.65 ms (10)
+Oct 02 13:21:00 symfony [info] {sfWebDebugLogger} Action "C001tForense/storelista" 76.96 ms (1)
+Oct 02 13:21:00 symfony [info] {sfWebDebugLogger} View "Success" for "C001tForense/storelista" 5.07 ms (1)
+Oct 02 13:21:00 symfony [info] {sfWebResponse} Send content (33092 o)
+Oct 02 13:21:00 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 02 13:21:00 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 02 13:21:00 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 02 13:21:00 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/user.gif" (/).
+Oct 02 13:21:00 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Oct 02 13:21:00 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 13:21:00 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 02 13:21:00 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 02 13:21:00 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 02 13:21:00 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/user.gif" (/).
+Oct 02 13:21:00 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Oct 02 13:21:00 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 13:21:56 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 02 13:21:56 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 02 13:21:56 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 02 13:21:56 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /C001tForense/storelista with parameters array (  'module' => 'C001tForense',  'action' => 'storelista',)
+Oct 02 13:21:56 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 02 13:21:56 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 02 13:21:56 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 02 13:21:56 symfony [info] {C001tForenseActions} Call "C001tForenseActions->executeStorelista()"
+Oct 02 13:21:56 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 02 13:21:56 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM (SELECT c001t_forense.CO_FORENSE, c001t_forense.FE_APERTURA, c001t_forense.FE_CIERRE, c001t_forense.CO_REGION, c001t_forense.CO_NEGOCIO, c001t_forense.CO_DIVISION, c001t_forense.TX_SERIAL, c001t_forense.TX_TITULO, c001t_forense.TX_DESCRIPCION_SOLICITUD, c001t_forense.TX_CASO_AAII, c001t_forense.CO_ALCANCE_FORENSE, c001t_forense.TX_METOLOGIA_HERRAMIENTAS, c001t_forense.TX_OBSERVACIONES, c001t_forense.CO_TRANSACCION, c001t_forense.CO_CLASIFICACION, c001t_forense.IN_ABIERTO, c001t_forense.CREATED_AT, c001t_forense.UPDATE_AT, c001t_forense.CO_ESTADO_FORENSE FROM c001t_forense LIMIT 20) AS propelmatch4cnt
+Oct 02 13:21:56 symfony [debug] {sfPropelLogger} prepare: SELECT c001t_forense.CO_FORENSE, c001t_forense.FE_APERTURA, c001t_forense.FE_CIERRE, c001t_forense.CO_REGION, c001t_forense.CO_NEGOCIO, c001t_forense.CO_DIVISION, c001t_forense.TX_SERIAL, c001t_forense.TX_TITULO, c001t_forense.TX_DESCRIPCION_SOLICITUD, c001t_forense.TX_CASO_AAII, c001t_forense.CO_ALCANCE_FORENSE, c001t_forense.TX_METOLOGIA_HERRAMIENTAS, c001t_forense.TX_OBSERVACIONES, c001t_forense.CO_TRANSACCION, c001t_forense.CO_CLASIFICACION, c001t_forense.IN_ABIERTO, c001t_forense.CREATED_AT, c001t_forense.UPDATE_AT, c001t_forense.CO_ESTADO_FORENSE FROM c001t_forense ORDER BY c001t_forense.CO_FORENSE ASC LIMIT 20
+Oct 02 13:21:56 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/modules/C001tForense/templates/storelistaSuccess.php"
+Oct 02 13:21:56 symfony [info] {sfPHPView} Decorate content with "/var/www/html/sgsti/apps/frontend/templates/layout.php"
+Oct 02 13:21:56 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/templates/layout.php"
+Oct 02 13:21:56 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 02 13:21:56 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 13:21:56 symfony [info] {sfWebDebugLogger} Configuration 1.51 ms (10)
+Oct 02 13:21:56 symfony [info] {sfWebDebugLogger} Action "C001tForense/storelista" 65.92 ms (1)
+Oct 02 13:21:56 symfony [info] {sfWebDebugLogger} View "Success" for "C001tForense/storelista" 3.36 ms (1)
+Oct 02 13:21:56 symfony [info] {sfWebResponse} Send content (33727 o)
+Oct 02 13:21:56 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 02 13:21:56 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 02 13:21:56 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 02 13:21:56 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/user.gif" (/).
+Oct 02 13:21:56 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Oct 02 13:21:56 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 02 13:22:00 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 02 13:22:00 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 02 13:22:00 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 02 13:22:00 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/user.gif" (/).
+Oct 02 13:22:00 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Oct 02 13:22:00 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 05 08:15:52 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 05 08:15:52 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 05 08:15:52 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 05 08:15:52 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /rol/guardar with parameters array (  'module' => 'rol',  'action' => 'guardar',)
+Oct 05 08:15:52 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 05 08:15:52 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 05 08:15:52 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 05 08:15:52 symfony [info] {RolActions} Call "RolActions->executeGuardar()"
+Oct 05 08:15:52 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 05 08:15:52 symfony [debug] {sfPropelLogger} prepare: SELECT j809t_rol.CO_ROL, j809t_rol.TX_ROL FROM j809t_rol WHERE j809t_rol.CO_ROL=:p1
+Oct 05 08:15:52 symfony [debug] {sfPropelLogger} Binding '1' at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 05 08:45:22 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 05 08:45:22 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 05 08:45:22 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 05 08:45:22 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /C001tForense/storelista with parameters array (  'module' => 'C001tForense',  'action' => 'storelista',)
+Oct 05 08:45:22 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 05 08:45:22 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 05 08:45:22 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 05 08:45:22 symfony [info] {C001tForenseActions} Call "C001tForenseActions->executeStorelista()"
+Oct 05 08:45:23 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 05 08:45:23 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM (SELECT c001t_forense.CO_FORENSE, c001t_forense.FE_APERTURA, c001t_forense.FE_CIERRE, c001t_forense.CO_REGION, c001t_forense.CO_NEGOCIO, c001t_forense.CO_DIVISION, c001t_forense.TX_SERIAL, c001t_forense.TX_TITULO, c001t_forense.TX_DESCRIPCION_SOLICITUD, c001t_forense.TX_CASO_AAII, c001t_forense.CO_ALCANCE_FORENSE, c001t_forense.TX_METOLOGIA_HERRAMIENTAS, c001t_forense.TX_OBSERVACIONES, c001t_forense.CO_TRANSACCION, c001t_forense.CO_CLASIFICACION, c001t_forense.IN_ABIERTO, c001t_forense.CREATED_AT, c001t_forense.UPDATE_AT, c001t_forense.CO_ESTADO_FORENSE FROM c001t_forense LIMIT 20) AS propelmatch4cnt
+Oct 05 08:45:23 symfony [debug] {sfPropelLogger} prepare: SELECT c001t_forense.CO_FORENSE, c001t_forense.FE_APERTURA, c001t_forense.FE_CIERRE, c001t_forense.CO_REGION, c001t_forense.CO_NEGOCIO, c001t_forense.CO_DIVISION, c001t_forense.TX_SERIAL, c001t_forense.TX_TITULO, c001t_forense.TX_DESCRIPCION_SOLICITUD, c001t_forense.TX_CASO_AAII, c001t_forense.CO_ALCANCE_FORENSE, c001t_forense.TX_METOLOGIA_HERRAMIENTAS, c001t_forense.TX_OBSERVACIONES, c001t_forense.CO_TRANSACCION, c001t_forense.CO_CLASIFICACION, c001t_forense.IN_ABIERTO, c001t_forense.CREATED_AT, c001t_forense.UPDATE_AT, c001t_forense.CO_ESTADO_FORENSE FROM c001t_forense ORDER BY c001t_forense.CO_FORENSE ASC LIMIT 20
+Oct 05 08:45:23 symfony [debug] {sfPropelLogger} prepare: SELECT j800t_region.CO_REGION, j800t_region.TX_DESCRIPCION, j800t_region.TX_SIGLA FROM j800t_region WHERE j800t_region.CO_REGION=:p1
+Oct 05 08:45:23 symfony [debug] {sfPropelLogger} Binding '2' at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 05 08:45:23 symfony [err] {sfPropelLogger} SQLSTATE[42P01]: Undefined table: 7 ERROR:  relation "j800t_region" does not exist
+LINE 1: ...region.TX_DESCRIPCION, j800t_region.TX_SIGLA FROM j800t_regi...
+                                                             ^
+Oct 05 08:45:23 symfony [err] {PropelException}  [wrapped: SQLSTATE[42P01]: Undefined table: 7 ERROR:  relation "j800t_region" does not exist
+LINE 1: ...region.TX_DESCRIPCION, j800t_region.TX_SIGLA FROM j800t_regi...
+                                                             ^]
+Oct 05 08:45:23 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Oct 05 08:45:23 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 05 08:51:43 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 05 08:51:43 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 05 08:51:43 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 05 08:51:43 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /C001tForense/storelista with parameters array (  'module' => 'C001tForense',  'action' => 'storelista',)
+Oct 05 08:51:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 05 08:51:43 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 05 08:51:43 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 05 08:51:43 symfony [info] {C001tForenseActions} Call "C001tForenseActions->executeStorelista()"
+Oct 05 08:51:43 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 05 08:51:43 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM (SELECT c001t_forense.CO_FORENSE, c001t_forense.FE_APERTURA, c001t_forense.FE_CIERRE, c001t_forense.CO_REGION, c001t_forense.CO_NEGOCIO, c001t_forense.CO_DIVISION, c001t_forense.TX_SERIAL, c001t_forense.TX_TITULO, c001t_forense.TX_DESCRIPCION_SOLICITUD, c001t_forense.TX_CASO_AAII, c001t_forense.CO_ALCANCE_FORENSE, c001t_forense.TX_METOLOGIA_HERRAMIENTAS, c001t_forense.TX_OBSERVACIONES, c001t_forense.CO_TRANSACCION, c001t_forense.CO_CLASIFICACION, c001t_forense.IN_ABIERTO, c001t_forense.CREATED_AT, c001t_forense.UPDATE_AT, c001t_forense.CO_ESTADO_FORENSE FROM c001t_forense LIMIT 20) AS propelmatch4cnt
+Oct 05 08:51:43 symfony [debug] {sfPropelLogger} prepare: SELECT c001t_forense.CO_FORENSE, c001t_forense.FE_APERTURA, c001t_forense.FE_CIERRE, c001t_forense.CO_REGION, c001t_forense.CO_NEGOCIO, c001t_forense.CO_DIVISION, c001t_forense.TX_SERIAL, c001t_forense.TX_TITULO, c001t_forense.TX_DESCRIPCION_SOLICITUD, c001t_forense.TX_CASO_AAII, c001t_forense.CO_ALCANCE_FORENSE, c001t_forense.TX_METOLOGIA_HERRAMIENTAS, c001t_forense.TX_OBSERVACIONES, c001t_forense.CO_TRANSACCION, c001t_forense.CO_CLASIFICACION, c001t_forense.IN_ABIERTO, c001t_forense.CREATED_AT, c001t_forense.UPDATE_AT, c001t_forense.CO_ESTADO_FORENSE FROM c001t_forense ORDER BY c001t_forense.CO_FORENSE ASC LIMIT 20
+Oct 05 08:51:43 symfony [debug] {sfPropelLogger} prepare: SELECT j800t_region.CO_REGION, j800t_region.TX_DESCRIPCION, j800t_region.TX_SIGLA FROM j800t_region WHERE j800t_region.CO_REGION=:p1
+Oct 05 08:51:43 symfony [debug] {sfPropelLogger} Binding '2' at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 05 08:51:43 symfony [err] {sfPropelLogger} SQLSTATE[42P01]: Undefined table: 7 ERROR:  relation "j800t_region" does not exist
+LINE 1: ...region.TX_DESCRIPCION, j800t_region.TX_SIGLA FROM j800t_regi...
+                                                             ^
+Oct 05 08:51:43 symfony [err] {PropelException}  [wrapped: SQLSTATE[42P01]: Undefined table: 7 ERROR:  relation "j800t_region" does not exist
+LINE 1: ...region.TX_DESCRIPCION, j800t_region.TX_SIGLA FROM j800t_regi...
+                                                             ^]
+Oct 05 08:51:43 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Oct 05 08:51:43 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 05 08:52:27 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 05 08:52:27 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 05 08:52:27 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 05 08:52:27 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /C001tForense/storelista with parameters array (  'module' => 'C001tForense',  'action' => 'storelista',)
+Oct 05 08:52:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 05 08:52:27 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 05 08:52:27 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 05 08:52:27 symfony [info] {C001tForenseActions} Call "C001tForenseActions->executeStorelista()"
+Oct 05 08:52:27 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 05 08:52:27 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM (SELECT c001t_forense.CO_FORENSE, c001t_forense.FE_APERTURA, c001t_forense.FE_CIERRE, c001t_forense.CO_REGION, c001t_forense.CO_NEGOCIO, c001t_forense.CO_DIVISION, c001t_forense.TX_SERIAL, c001t_forense.TX_TITULO, c001t_forense.TX_DESCRIPCION_SOLICITUD, c001t_forense.TX_CASO_AAII, c001t_forense.CO_ALCANCE_FORENSE, c001t_forense.TX_METOLOGIA_HERRAMIENTAS, c001t_forense.TX_OBSERVACIONES, c001t_forense.CO_TRANSACCION, c001t_forense.CO_CLASIFICACION, c001t_forense.IN_ABIERTO, c001t_forense.CREATED_AT, c001t_forense.UPDATE_AT, c001t_forense.CO_ESTADO_FORENSE FROM c001t_forense LIMIT 20) AS propelmatch4cnt
+Oct 05 08:52:27 symfony [debug] {sfPropelLogger} prepare: SELECT c001t_forense.CO_FORENSE, c001t_forense.FE_APERTURA, c001t_forense.FE_CIERRE, c001t_forense.CO_REGION, c001t_forense.CO_NEGOCIO, c001t_forense.CO_DIVISION, c001t_forense.TX_SERIAL, c001t_forense.TX_TITULO, c001t_forense.TX_DESCRIPCION_SOLICITUD, c001t_forense.TX_CASO_AAII, c001t_forense.CO_ALCANCE_FORENSE, c001t_forense.TX_METOLOGIA_HERRAMIENTAS, c001t_forense.TX_OBSERVACIONES, c001t_forense.CO_TRANSACCION, c001t_forense.CO_CLASIFICACION, c001t_forense.IN_ABIERTO, c001t_forense.CREATED_AT, c001t_forense.UPDATE_AT, c001t_forense.CO_ESTADO_FORENSE FROM c001t_forense ORDER BY c001t_forense.CO_FORENSE ASC LIMIT 20
+Oct 05 08:57:26 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 05 08:57:26 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 05 08:57:26 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 05 08:57:26 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /C001tForense/storelista with parameters array (  'module' => 'C001tForense',  'action' => 'storelista',)
+Oct 05 08:57:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 05 08:57:26 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 05 08:57:26 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 05 08:57:26 symfony [info] {C001tForenseActions} Call "C001tForenseActions->executeStorelista()"
+Oct 05 08:57:26 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 05 08:57:26 symfony [debug] {sfPropelLogger} prepare: SELECT COUNT(*) FROM (SELECT c001t_forense.CO_FORENSE, c001t_forense.FE_APERTURA, c001t_forense.FE_CIERRE, c001t_forense.CO_REGION, c001t_forense.CO_NEGOCIO, c001t_forense.CO_DIVISION, c001t_forense.TX_SERIAL, c001t_forense.TX_TITULO, c001t_forense.TX_DESCRIPCION_SOLICITUD, c001t_forense.TX_CASO_AAII, c001t_forense.CO_ALCANCE_FORENSE, c001t_forense.TX_METOLOGIA_HERRAMIENTAS, c001t_forense.TX_OBSERVACIONES, c001t_forense.CO_TRANSACCION, c001t_forense.CO_CLASIFICACION, c001t_forense.IN_ABIERTO, c001t_forense.CREATED_AT, c001t_forense.UPDATE_AT, c001t_forense.CO_ESTADO_FORENSE FROM c001t_forense LIMIT 20) AS propelmatch4cnt
+Oct 05 08:57:26 symfony [debug] {sfPropelLogger} prepare: SELECT c001t_forense.CO_FORENSE, c001t_forense.FE_APERTURA, c001t_forense.FE_CIERRE, c001t_forense.CO_REGION, c001t_forense.CO_NEGOCIO, c001t_forense.CO_DIVISION, c001t_forense.TX_SERIAL, c001t_forense.TX_TITULO, c001t_forense.TX_DESCRIPCION_SOLICITUD, c001t_forense.TX_CASO_AAII, c001t_forense.CO_ALCANCE_FORENSE, c001t_forense.TX_METOLOGIA_HERRAMIENTAS, c001t_forense.TX_OBSERVACIONES, c001t_forense.CO_TRANSACCION, c001t_forense.CO_CLASIFICACION, c001t_forense.IN_ABIERTO, c001t_forense.CREATED_AT, c001t_forense.UPDATE_AT, c001t_forense.CO_ESTADO_FORENSE FROM c001t_forense ORDER BY c001t_forense.CO_FORENSE ASC LIMIT 20
+Oct 05 08:57:26 symfony [debug] {sfPropelLogger} prepare: SELECT j813t_region.CO_REGION, j813t_region.TX_REGION, j813t_region.TX_SIGLA FROM j813t_region WHERE j813t_region.CO_REGION=:p1
+Oct 05 08:57:26 symfony [debug] {sfPropelLogger} Binding '2' at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 05 09:57:33 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 05 09:57:33 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 05 09:57:33 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 05 09:57:33 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /C001tForense/detalle with parameters array (  'module' => 'C001tForense',  'action' => 'detalle',)
+Oct 05 09:57:33 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 05 09:57:33 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 05 09:57:33 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 05 09:57:33 symfony [info] {C001tForenseActions} Call "C001tForenseActions->executeDetalle()"
+Oct 05 09:57:33 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 05 09:57:33 symfony [debug] {sfPropelLogger} prepare: SELECT j800t_region.tx_descripcion as tx_region, j814t_negocio.TX_NEGOCIO, j815t_division.TX_DIVISION, c001t_forense.CO_FORENSE FROM j800t_region, j814t_negocio, j815t_division, c001t_forense WHERE c001t_forense.CO_FORENSE=:p1 AND j800t_region.CO_REGION=c001t_forense.CO_REGION AND j814t_negocio.CO_NEGOCIO=c001t_forense.CO_NEGOCIO AND j815t_division.CO_DIVISION=c001t_forense.CO_DIVISION
+Oct 05 09:57:33 symfony [debug] {sfPropelLogger} Binding '2' at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 05 09:57:33 symfony [err] {sfPropelLogger} SQLSTATE[42P01]: Undefined table: 7 ERROR:  relation "j800t_region" does not exist
+LINE 1: ...vision.TX_DIVISION, c001t_forense.CO_FORENSE FROM j800t_regi...
+                                                             ^
+Oct 05 09:57:33 symfony [err] {PropelException}  [wrapped: SQLSTATE[42P01]: Undefined table: 7 ERROR:  relation "j800t_region" does not exist
+LINE 1: ...vision.TX_DIVISION, c001t_forense.CO_FORENSE FROM j800t_regi...
+                                                             ^]
+Oct 05 09:57:33 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Oct 05 09:57:33 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 05 09:58:11 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 05 09:58:11 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 05 09:58:11 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 05 09:58:11 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /C001tForense/detalle with parameters array (  'module' => 'C001tForense',  'action' => 'detalle',)
+Oct 05 09:58:11 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 05 09:58:11 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 05 09:58:11 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 05 09:58:11 symfony [info] {C001tForenseActions} Call "C001tForenseActions->executeDetalle()"
+Oct 05 09:58:11 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 05 09:58:11 symfony [debug] {sfPropelLogger} prepare: SELECT j800t_region.tx_descripcion as tx_region, j814t_negocio.TX_NEGOCIO, j815t_division.TX_DIVISION, c001t_forense.CO_FORENSE FROM j800t_region, j814t_negocio, j815t_division, c001t_forense, j813t_region WHERE c001t_forense.CO_FORENSE=:p1 AND j813t_region.CO_REGION=c001t_forense.CO_REGION AND j814t_negocio.CO_NEGOCIO=c001t_forense.CO_NEGOCIO AND j815t_division.CO_DIVISION=c001t_forense.CO_DIVISION
+Oct 05 09:58:11 symfony [debug] {sfPropelLogger} Binding '2' at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 05 09:58:11 symfony [err] {sfPropelLogger} SQLSTATE[42P01]: Undefined table: 7 ERROR:  relation "j800t_region" does not exist
+LINE 1: ...vision.TX_DIVISION, c001t_forense.CO_FORENSE FROM j800t_regi...
+                                                             ^
+Oct 05 09:58:11 symfony [err] {PropelException}  [wrapped: SQLSTATE[42P01]: Undefined table: 7 ERROR:  relation "j800t_region" does not exist
+LINE 1: ...vision.TX_DIVISION, c001t_forense.CO_FORENSE FROM j800t_regi...
+                                                             ^]
+Oct 05 09:58:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Oct 05 09:58:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 05 09:58:28 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 05 09:58:28 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 05 09:58:28 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 05 09:58:28 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /C001tForense/detalle with parameters array (  'module' => 'C001tForense',  'action' => 'detalle',)
+Oct 05 09:58:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 05 09:58:28 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 05 09:58:28 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 05 09:58:28 symfony [info] {C001tForenseActions} Call "C001tForenseActions->executeDetalle()"
+Oct 05 09:58:28 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 05 09:58:28 symfony [debug] {sfPropelLogger} prepare: SELECT j813t_region.tx_descripcion as tx_region, j814t_negocio.TX_NEGOCIO, j815t_division.TX_DIVISION, c001t_forense.CO_FORENSE FROM j813t_region, j814t_negocio, j815t_division, c001t_forense WHERE c001t_forense.CO_FORENSE=:p1 AND j813t_region.CO_REGION=c001t_forense.CO_REGION AND j814t_negocio.CO_NEGOCIO=c001t_forense.CO_NEGOCIO AND j815t_division.CO_DIVISION=c001t_forense.CO_DIVISION
+Oct 05 09:58:28 symfony [debug] {sfPropelLogger} Binding '2' at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 05 09:58:28 symfony [err] {sfPropelLogger} SQLSTATE[42703]: Undefined column: 7 ERROR:  column j813t_region.tx_descripcion does not exist
+LINE 1: SELECT j813t_region.tx_descripcion as tx_region, j814t_negoc...
+               ^
+Oct 05 09:58:28 symfony [err] {PropelException}  [wrapped: SQLSTATE[42703]: Undefined column: 7 ERROR:  column j813t_region.tx_descripcion does not exist
+LINE 1: SELECT j813t_region.tx_descripcion as tx_region, j814t_negoc...
+               ^]
+Oct 05 09:58:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Oct 05 09:58:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 05 09:59:02 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 05 09:59:02 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 05 09:59:02 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 05 09:59:02 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /C001tForense/detalle with parameters array (  'module' => 'C001tForense',  'action' => 'detalle',)
+Oct 05 09:59:02 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 05 09:59:02 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 05 09:59:02 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 05 09:59:02 symfony [info] {C001tForenseActions} Call "C001tForenseActions->executeDetalle()"
+Oct 05 09:59:02 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 05 09:59:02 symfony [debug] {sfPropelLogger} prepare: SELECT j813t_region.TX_REGION, j814t_negocio.TX_NEGOCIO, j815t_division.TX_DIVISION, c001t_forense.CO_FORENSE FROM j813t_region, j814t_negocio, j815t_division, c001t_forense WHERE c001t_forense.CO_FORENSE=:p1 AND j813t_region.CO_REGION=c001t_forense.CO_REGION AND j814t_negocio.CO_NEGOCIO=c001t_forense.CO_NEGOCIO AND j815t_division.CO_DIVISION=c001t_forense.CO_DIVISION
+Oct 05 09:59:02 symfony [debug] {sfPropelLogger} Binding '2' at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 05 10:02:51 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 05 10:02:51 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 05 10:02:51 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 05 10:02:51 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /C001tForense/detalle with parameters array (  'module' => 'C001tForense',  'action' => 'detalle',)
+Oct 05 10:03:10 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 05 10:03:10 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 05 10:03:10 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 05 10:03:10 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /C001tForense/detalle with parameters array (  'module' => 'C001tForense',  'action' => 'detalle',)
+Oct 05 10:03:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 05 10:03:10 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 05 10:03:10 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 05 10:03:10 symfony [info] {C001tForenseActions} Call "C001tForenseActions->executeDetalle()"
+Oct 05 10:03:10 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 05 10:03:10 symfony [debug] {sfPropelLogger} prepare: SELECT j813t_region.TX_REGION, j814t_negocio.TX_NEGOCIO, j815t_division.TX_DIVISION, c001t_forense.CO_FORENSE FROM j813t_region, j814t_negocio, j815t_division, c001t_forense WHERE c001t_forense.CO_FORENSE=:p1 AND j813t_region.CO_REGION=c001t_forense.CO_REGION AND j814t_negocio.CO_NEGOCIO=c001t_forense.CO_NEGOCIO AND j815t_division.CO_DIVISION=c001t_forense.CO_DIVISION
+Oct 05 10:03:10 symfony [debug] {sfPropelLogger} Binding '2' at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 05 10:12:02 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 05 10:12:02 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 05 10:12:02 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 05 10:12:02 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /C001tForense/detalle with parameters array (  'module' => 'C001tForense',  'action' => 'detalle',)
+Oct 05 10:12:02 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 05 10:12:02 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 05 10:12:02 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 05 10:12:02 symfony [info] {C001tForenseActions} Call "C001tForenseActions->executeDetalle()"
+Oct 05 10:12:02 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 05 10:12:02 symfony [debug] {sfPropelLogger} prepare: SELECT j813t_region.TX_REGION, j814t_negocio.TX_NEGOCIO, j815t_division.TX_DIVISION, c001t_forense.CO_FORENSE FROM j813t_region, j814t_negocio, j815t_division, c001t_forense WHERE c001t_forense.CO_FORENSE=:p1 AND j813t_region.CO_REGION=c001t_forense.CO_REGION AND j814t_negocio.CO_NEGOCIO=c001t_forense.CO_NEGOCIO AND j815t_division.CO_DIVISION=c001t_forense.CO_DIVISION
+Oct 05 10:12:02 symfony [debug] {sfPropelLogger} Binding '2' at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 05 10:12:36 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 05 10:12:36 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 05 10:12:36 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 05 10:12:36 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /C001tForense/detalle with parameters array (  'module' => 'C001tForense',  'action' => 'detalle',)
+Oct 05 10:12:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 05 10:12:36 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 05 10:12:36 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 05 10:12:36 symfony [info] {C001tForenseActions} Call "C001tForenseActions->executeDetalle()"
+Oct 05 10:12:36 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 05 10:12:36 symfony [debug] {sfPropelLogger} prepare: SELECT j813t_region.TX_REGION, j814t_negocio.TX_NEGOCIO, j815t_division.TX_DIVISION, c001t_forense.CO_FORENSE FROM j813t_region, j814t_negocio, j815t_division, c001t_forense WHERE c001t_forense.CO_FORENSE=:p1 AND j813t_region.CO_REGION=c001t_forense.CO_REGION AND j814t_negocio.CO_NEGOCIO=c001t_forense.CO_NEGOCIO AND j815t_division.CO_DIVISION=c001t_forense.CO_DIVISION
+Oct 05 10:12:36 symfony [debug] {sfPropelLogger} Binding '2' at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 05 10:12:36 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/modules/C001tForense/templates/detalleSuccess.php"
+Oct 05 10:12:36 symfony [info] {sfPHPView} Decorate content with "/var/www/html/sgsti/apps/frontend/templates/layout.php"
+Oct 05 10:12:36 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/templates/layout.php"
+Oct 05 10:12:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 05 10:12:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 05 10:12:36 symfony [info] {sfWebDebugLogger} Configuration 8.06 ms (11)
+Oct 05 10:12:36 symfony [info] {sfWebDebugLogger} Action "C001tForense/detalle" 64.90 ms (1)
+Oct 05 10:12:36 symfony [info] {sfWebDebugLogger} View "Success" for "C001tForense/detalle" 60.92 ms (1)
+Oct 05 10:12:36 symfony [info] {sfWebResponse} Send content (35994 o)
+Oct 05 10:12:36 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 05 10:12:36 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 05 10:12:36 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 05 10:12:36 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/user.gif" (/).
+Oct 05 10:12:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Oct 05 10:12:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 05 10:12:37 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 05 10:12:37 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 05 10:12:37 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 05 10:12:37 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/user.gif" (/).
+Oct 05 10:12:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Oct 05 10:12:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 05 10:12:59 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 05 10:12:59 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 05 10:12:59 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 05 10:12:59 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /C001tForense/detalle with parameters array (  'module' => 'C001tForense',  'action' => 'detalle',)
+Oct 05 10:12:59 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 05 10:12:59 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Oct 05 10:12:59 symfony [info] {sfFilterChain} Executing filter "sfValidationExecutionFilter"
+Oct 05 10:12:59 symfony [info] {C001tForenseActions} Call "C001tForenseActions->executeDetalle()"
+Oct 05 10:12:59 symfony [debug] {sfPropelLogger} exec: SET NAMES 'utf8'
+Oct 05 10:12:59 symfony [debug] {sfPropelLogger} prepare: SELECT j813t_region.TX_REGION, j814t_negocio.TX_NEGOCIO, j815t_division.TX_DIVISION, c001t_forense.CO_FORENSE FROM j813t_region, j814t_negocio, j815t_division, c001t_forense WHERE c001t_forense.CO_FORENSE=:p1 AND j813t_region.CO_REGION=c001t_forense.CO_REGION AND j814t_negocio.CO_NEGOCIO=c001t_forense.CO_NEGOCIO AND j815t_division.CO_DIVISION=c001t_forense.CO_DIVISION
+Oct 05 10:12:59 symfony [debug] {sfPropelLogger} Binding '2' at position :p1 w/ PDO type PDO::PARAM_STR
+Oct 05 10:12:59 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/modules/C001tForense/templates/detalleSuccess.php"
+Oct 05 10:12:59 symfony [info] {sfPHPView} Decorate content with "/var/www/html/sgsti/apps/frontend/templates/layout.php"
+Oct 05 10:12:59 symfony [info] {sfPHPView} Render "/var/www/html/sgsti/apps/frontend/templates/layout.php"
+Oct 05 10:12:59 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 05 10:12:59 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 05 10:12:59 symfony [info] {sfWebDebugLogger} Configuration 1.66 ms (10)
+Oct 05 10:12:59 symfony [info] {sfWebDebugLogger} Action "C001tForense/detalle" 64.94 ms (1)
+Oct 05 10:12:59 symfony [info] {sfWebDebugLogger} View "Success" for "C001tForense/detalle" 4.45 ms (1)
+Oct 05 10:12:59 symfony [info] {sfWebResponse} Send content (35990 o)
+Oct 05 10:12:59 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 05 10:12:59 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 05 10:12:59 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 05 10:12:59 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/user.gif" (/).
+Oct 05 10:12:59 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Oct 05 10:12:59 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 05 10:13:00 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Oct 05 10:13:00 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Oct 05 10:13:00 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Oct 05 10:13:00 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/user.gif" (/).
+Oct 05 10:13:00 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Oct 05 10:13:00 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
