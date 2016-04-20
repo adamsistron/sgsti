@@ -155,8 +155,7 @@ Ext.onReady(function(){
 	}
 </script>
 	<body style="background: #FFFFFF">
-		<div id="centro" align="center" style="padding-bottom: 1%;width:100%;height:600px;">     
-		</div>
+		<div id="centro" align="center" style="padding-bottom: 1%;width:100%;height:600px;"></div>
 		<div id="centro" class="x-hide-display"><?php  echo $sf_content ?></div>
 		<div id="props-panel" class="x-hide-display" style="width:200px;height:200px;overflow:hidden;"></div> 
 	</body>
